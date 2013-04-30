@@ -36,3 +36,4 @@ nosetests.xml
 
 # tmp database
 drf_tutorial.sqlite3
+*.pyc
